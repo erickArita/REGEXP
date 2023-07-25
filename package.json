@@ -1,0 +1,15 @@
+{
+  "name": "reemplazartexto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ReemplazarTexto.js",
+  "scripts": {
+    "reemplazar": "node  ./src/ReemplazarTexto.js",
+    "repetidas": "node ./src/encontrarLetrasCOnsecutivvas.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "replace-in-file": "^7.0.1"
+  }
+}
